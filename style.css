@@ -192,3 +192,10 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
+table {
+  width: 1200px; /* Ширина таблицы */
+  margin: auto; /* Выравниваем таблицу по центру окна  */
+}
+td {
+  text-align: center; /* Выравниваем текст по центру ячейки */
+}
